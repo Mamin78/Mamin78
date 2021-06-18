@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mamin78&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Mamin78/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamin78&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Mamin78/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamin78&repo=convoychat" />
 </a>
