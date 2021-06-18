@@ -21,3 +21,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamin78&layout=compact" />
 </a>
 <br>
+
+[![trophy](https://github-profile-trophy.vercel.app/Mamin78=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
