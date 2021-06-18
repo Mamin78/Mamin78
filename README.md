@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mamin78&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
