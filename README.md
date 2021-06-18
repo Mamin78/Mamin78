@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamin78&theme=dracula&show_icons=true)
+![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamin78&theme=gruvbox&show_icons=true&bg_color=45,353b48,2f3640&text_color=f5f6fa&title_color=fbc531)
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamin78&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamin78&layout=compact&theme=dracula&bg_color=45,353b48,2f3640&text_color=f5f6fa&title_color=fbc531" />
 </a>
 <br>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mamin78&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
