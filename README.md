@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/Mamin78=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mamin78)](https://github.com/ryo-ma/github-profile-trophy)
